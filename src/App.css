@@ -1,0 +1,9 @@
+.App{
+    border: solid 2px rgba(0, 0, 255, 0.304);
+    width: 50vh;
+    height: 20vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 2vh;
+}
